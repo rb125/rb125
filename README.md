@@ -27,7 +27,7 @@ arXiv: [https://arxiv.org/abs/2512.17920]
 
 ### DDFT — Drill-Down and Fabricate Test (2025)
 Stress-tests epistemic robustness via progressive compression and adversarial fabrication.  
-Under peer review. Preprint: [link(https://arxiv.org/abs/2512.23850)]
+Under peer review. arXiv: [https://arxiv.org/abs/2512.23850]
 
 ### AGT — Action-Gating Test (2026)
 Behavioral diagnostic distinguishing performative ethical reasoning from genuine adaptability.  
@@ -35,7 +35,7 @@ Zenodo: [https://zenodo.org/records/18282166]
 
 ### Before the First Cause (2025)
 Recursive causality in Indian philosophical literature.  
-Zenodo: [link(https://zenodo.org/records/17905985)]
+Under peer review, Zenodo: [https://zenodo.org/records/17905985]
 
 ---
 
