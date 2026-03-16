@@ -1,6 +1,6 @@
 # Rahul Baxi
 
-Embodied AI Startup Founder
+Embodied AI Startup Founder/
 Independent AI researcher working on behavioral evaluation, epistemic robustness, and comprehension-gated intelligence systems.
 
 ## Research Program
